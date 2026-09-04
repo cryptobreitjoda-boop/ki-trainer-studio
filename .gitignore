@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/*.pt
+models/*.onnx
+models/*.pkl
+runs/
+data/*.csv
+uploads/*
+!uploads/.gitkeep
+.DS_Store
