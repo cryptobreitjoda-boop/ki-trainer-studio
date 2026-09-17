@@ -117,6 +117,3 @@ TrainerConfig(
 
 MIT - frei nutzbar.
 
----
-Erstellt mit Meta AI 🤖
-
